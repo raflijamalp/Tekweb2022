@@ -1,0 +1,47 @@
+.cover {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+  }
+  .cover .masking {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    top: 0;
+    background-color: rgb(0, 0, 0,0);
+    opacity: 0.5;
+    z-index: 0;
+  }
+  .cover .credit {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+  }
+  .cover .social a {
+    color: white;
+  }
+  body{
+      background-color: black;
+  }
+  #poto img{
+      border-radius: 1%;
+      
+  }
+  .bekgron img{
+    width: 100%;
+  }
+  .bekgron{
+    background-image: url(foto/MataLensa.png);
+    width: 100%;
+    min-height: 1000px;
+    position: absolute;
+    margin-top: -700px;
+    z-index: -1;
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
