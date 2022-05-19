@@ -1,0 +1,23 @@
+[
+    {
+        "ID": "1",
+        "Title": "Photography",
+        "Author": "Rafli Jamal Purnama",
+        "Content": "https://raw.githubusercontent.com/raflijamalp/Tekweb2022/main/foto/%5BOriginals%5D/Photo.jpg",
+        "markdown": "ar1.md"
+    },
+    {
+        "ID": "2",
+        "Title": "Videography",
+        "Author": "Rafli Jamal Purnama",
+        "Content": "https://raw.githubusercontent.com/raflijamalp/Tekweb2022/main/foto/%5BOriginals%5D/Video.jpg",
+        "markdown": "ar2.md"
+    },
+    {
+        "ID": "3",
+        "Title": "Portofolio",
+        "Author": "Rafli Jamal Purnama",
+        "Content": "https://raw.githubusercontent.com/raflijamalp/Tekweb2022/main/foto/%5BOriginals%5D/bisnis.jpg",
+        "markdown": "art3.html"
+    }
+]
